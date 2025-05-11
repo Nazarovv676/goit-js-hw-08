@@ -7,7 +7,7 @@ main {
   position: relative;
 }
 
-.image-gallery {
+.gallery {
   max-width: 1128px;
   z-index: 0;
   display: flex;

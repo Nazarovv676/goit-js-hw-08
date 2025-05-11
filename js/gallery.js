@@ -1,6 +1,6 @@
 import { galleryItems } from "./gallery-items.js";
 
-const galleryContainer = document.querySelector(".image-gallery");
+const galleryContainer = document.querySelector(".gallery");
 
 const galleryMarkup = galleryItems.map(({ fullImage, thumbnail, caption }) => {
   return `<li class="image-item">
